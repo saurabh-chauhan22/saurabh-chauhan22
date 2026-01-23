@@ -1,7 +1,19 @@
 ## Hi there 👋
-## I'm Saurabh Chauhan (B.E-Computer Engineer,M.S Computer Science)
-# 💫 About Me:
-I'm currently working neural network (ANN,CNN,RNN)<br>I'm looking to collaborate on meta's new research models like Memory Layers at Scale<br>I'm looking for help with Summer Internships for my Masters Degree.<br>I'm currently learning OpenCV and Mastering data structures<br>Ask me about Web Development, Automation and AI-ML<br>Fun fact about me is that I can adapt to almost any tech and love to read books.<br>
+## I'm Saurabh Chauhan (B.E Computer Engineer,M.S Computer Science)
+# 👋 About Me:
+AI & Backend Engineer with 3+ years building production systems that serve thousands of users. Currently completing my MS in Computer Science at University of Illinois Springfield (graduating May 2026).
+
+**What I've Built:**
+- Production RAG system using LangChain and Mistral-7B serving 10,000+ users with 95% accuracy
+- Fine-tuned transformer models (VideoMAE) achieving 82% accuracy on computer vision tasks  
+- Microservices architecture handling 110,000+ daily API requests with 99%+ uptime
+- Multi-tenant SaaS platforms supporting 50+ enterprise users across multiple clients
+
+**Currently:** Seeking full-time AI/ML Engineer or Backend Engineer roles starting May 2026. Open to opportunities across US tech hubs or remote positions.
+
+**Ask me about:** Production RAG systems, LLM fine-tuning, microservices architecture, Django/Flask/FastAPI, or deploying ML models at scale.
+
+**Fun fact:** I can adapt to almost any tech stack and love diving deep into AI research papers to implement practical solutions.
 
 
 ## 🌐 Socials:
