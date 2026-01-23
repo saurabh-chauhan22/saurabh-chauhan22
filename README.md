@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## I'm Saurabh Chauhan (B.E Computer Engineer,M.S Computer Science)
 # 👋 About Me:
-AI & Backend Engineer with 3+ years building production systems that serve thousands of users. Currently completing my MS in Computer Science at University of Illinois Springfield (graduating May 2026).
+AI/ML & Backend Engineer with 3+ years building production systems that serve thousands of users. Currently completing my MS in Computer Science at University of Illinois Springfield (graduating May 2026).
 
 **What I've Built:**
 - Production RAG system using LangChain and Mistral-7B serving 10,000+ users with 95% accuracy
