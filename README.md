@@ -62,4 +62,6 @@ AI/ML & Backend Engineer with 3+ years building production systems that serve th
 ### 🔝 Top Contributed Repositories:
 ![](https://github-contributor-stats.vercel.app/api?username=saurabh-chauhan22&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
+<a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=saurabh-chauhan2298" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on LinkedIn"/>
+</a>
