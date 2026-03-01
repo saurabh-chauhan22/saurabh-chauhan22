@@ -4,20 +4,22 @@
 AI/ML & Backend Engineer with 3+ years building production systems that serve thousands of users. Currently completing my MS in Computer Science at University of Illinois Springfield (graduating May 2026).
 
 **What I've Built:**
-- Production RAG system using LangChain and Mistral-7B serving 10,000+ users with 95% accuracy
-- Fine-tuned transformer models (VideoMAE) achieving 82% accuracy on computer vision tasks  
-- Microservices architecture handling 110,000+ daily API requests with 99%+ uptime
-- Multi-tenant SaaS platforms supporting 50+ enterprise users across multiple clients
+- Multi-agent orchestration system using Microsoft AutoGen with ReAct / Plan-and-Execute patterns and external tool calling, processing 10+ query types in under 5 seconds
+- Fine-tuned Flan-T5 (LoRA/PEFT) on meeting transcripts to auto-generate hierarchical mind maps with a custom tree edit similarity evaluation framework
+- Production RAG agent using LangChain, Mistral-7B, and FAISS serving 10,000+ users across 6 enterprise clients with sub-50ms retrieval latency and 95% query accuracy
+- Fine-tuned VideoMAE transformer on a 239-class ASL dataset, improving accuracy from 62% to 82% (+32%) via Universal Temporal Sub-sampling on GPU-constrained hardware
+- Microservices architecture handling 110,000+ daily API requests with 99.5% uptime via gRPC, Redis caching, and intelligent load balancing
+- End-to-end invoice extraction pipeline using a custom SpaCy transformer NER model achieving 95% F1-score across 8 entity types from 200+ documents
 
-**Currently:** Seeking full-time AI/ML Engineer or Backend Engineer roles starting May 2026. Open to opportunities across US tech hubs or remote positions.
+**Currently:** Pursuing MS in Computer Science at University of Illinois Springfield (graduating May 2026, GPA 3.8). Actively seeking full-time AI/ML Engineer or Software Engineer roles starting June 2026. Open to positions across US tech hubs or remote with availability on Post-Completion OPT (STEM).
 
-**Ask me about:** Production RAG systems, LLM fine-tuning, microservices architecture, Django/Flask/FastAPI, or deploying ML models at scale.
+**Ask me about:** Production RAG systems and agentic workflows, multi-agent orchestration with AutoGen and LangChain, LLM fine-tuning (LoRA/PEFT), microservices architecture with gRPC and Spring Boot, deploying ML models at scale, or FastAPI/Django/Flask backend development.
 
 **Fun fact:** I can adapt to almost any tech stack and love diving deep into AI research papers to implement practical solutions.
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saurabh_aries22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-chauhan2298) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15886139) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saurabh_aries22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-chauhan2298) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15886139) [![Substack](https://img.shields.io/badge/Substack-%23FF6719.svg?logo=substack&logoColor=white)](https://saurabhchauhan22.substack.com/)
 
 # 💻 Tech Stack:
 ## Languages & Core
@@ -26,8 +28,8 @@ AI/ML & Backend Engineer with 3+ years building production systems that serve th
 ## AI/ML & Deep Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
-## LLMs & Generative AI (No official badges available, so listing as text)
-**LangChain** | **OpenAI API** | **Hugging Face Transformers** | **RAG** | **FAISS** | **ChromaDB** | **spaCy** | **NLTK** | **Mistral** | **Fine-tuning** | **Prompt Engineering**
+## LLMs & Generative AI
+**LangChain** | **OpenAI API** | **Hugging Face Transformers** | **Microsoft AutoGen** | **RAG** | **Agentic Workflows** | **FAISS** | **ChromaDB** | **spaCy** | **Mistral-7B** | **Flan-T5** | **Fine-tuning (LoRA/PEFT)** | **Prompt Engineering** | **Multi-Agent Orchestration** | **Function Calling** | **Vector Databases**
 
 ## Backend & Web Frameworks
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
