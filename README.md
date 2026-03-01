@@ -60,7 +60,4 @@ AI/ML & Backend Engineer with 3+ years building production systems that serve th
 ### 🔝 Top Contributed Repositories:
 ![](https://github-contributor-stats.vercel.app/api?username=saurabh-chauhan22&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=saurabh-chauhan22&label=Profile%20Views&icon=1&color=0&pretty=true)
 
