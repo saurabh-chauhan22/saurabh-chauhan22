@@ -1,5 +1,7 @@
-## Hi there 👋
-## I'm Saurabh Chauhan (B.E Computer Engineer,M.S Computer Science)
+## Hi there, I'm Saurabh Chauhan 👋
+
+### AI/ML Engineer · Backend Engineer · MS Computer Science @ UIS (May 2026)
+
 # 👋 About Me:
 AI/ML & Backend Engineer with 3+ years building production systems that serve thousands of users. Currently completing my MS in Computer Science at University of Illinois Springfield (graduating May 2026).
 
