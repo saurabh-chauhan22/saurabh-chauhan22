@@ -51,10 +51,14 @@ AI/ML & Backend Engineer with 3+ years building production systems that serve th
 
 ## Other Technologies (Text list - no badges)
 **Apache API SIX** | **Apache Freemarker** | **Robot Framework** | **Playwright** | **pytest** | **SQLAlchemy** | **WebSocket** | **gRPC** | **REST APIs** | **Microservices**
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=saurabh-chauhan22&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=saurabh-chauhan22&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saurabh-chauhan22&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh-chauhan22&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh-chauhan22&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+
+## 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=saurabh-chauhan22&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=saurabh-chauhan22&limit=5&theme=dark&combine_all_yearly_contributions=true)
