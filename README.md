@@ -57,13 +57,10 @@ AI/ML & Backend Engineer with 3+ years building production systems that serve th
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saurabh-chauhan22&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh-chauhan22&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=saurabh-chauhan22&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repositories:
 ![](https://github-contributor-stats.vercel.app/api?username=saurabh-chauhan22&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=saurabh-chauhan22&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Profile Views](https://visitcount.itsvg.in/api?id=saurabh-chauhan22&label=Profile%20Views&icon=1&color=0&pretty=true)
+
