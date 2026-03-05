@@ -59,6 +59,10 @@ AI/ML & Backend Engineer with 3+ years building production systems that serve th
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saurabh-chauhan22&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh-chauhan22&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
 
+<a href="https://saurabh-chauhan.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Portfolio"/>
+</a>
+
 <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=saurabh-chauhan2298" target="_blank">
     <img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on LinkedIn"/>
 </a>
