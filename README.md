@@ -51,8 +51,8 @@ AI/ML & Backend Engineer with 3+ years building production systems that serve th
 ## BI Tools  
 **Apache Superset**
 
-## Other Technologies (Text list - no badges)
-**Apache API SIX** | **Apache Freemarker** | **Robot Framework** | **Playwright** | **pytest** | **SQLAlchemy** | **WebSocket** | **gRPC** | **REST APIs** | **Microservices**
+## Other Technologies 
+**Apache API SIX** | **Apache Freemarker** | **Robot Framework** | **Playwright** | **WebSocket** | **gRPC** | **REST APIs** | **Microservices**
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=saurabh-chauhan22&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)<br/>
